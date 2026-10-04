@@ -300,8 +300,7 @@ secure-ai/
 
 ## Licencia
 
-Este proyecto puede publicarse bajo **MIT** para el material propio, manteniendo las atribuciones y licencias correspondientes de cualquier contenido o código de terceros.
-
+Licencia? donde vamos no necesitamos licencias...
 ---
 
 **Idea central:**
