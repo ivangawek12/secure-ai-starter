@@ -233,6 +233,10 @@ Nada Respetable — [LLM seeding como arma de guerra](https://nadarespetable.com
 421.news — [El caso Anthropic](https://www.421.news/es/filosofia-anthropic-ia-etica/)  
 Nada Respetable — [Psicosis inducida por inteligencia artificial](https://nadarespetable.com/psicosis-inducida-por-inteligencia-artificial/)
 
+### Regulaciones y etc
+
+Marcel Pallero- https://open.spotify.com/episode/6lwyPMlZWJBLCYnKBcpMZR
+
 ### Licencia
 
 Este proyecto puede publicarse bajo MIT para el material propio, manteniendo las atribuciones y licencias correspondientes de cualquier contenido o código de terceros.
