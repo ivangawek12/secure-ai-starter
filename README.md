@@ -149,13 +149,12 @@ web page
 GitHub issue
 RAG document
 ```
-El contenido puede intentar introducir instrucciones maliciosas en el contexto.
-B. LLM seeding / contaminación del conocimiento público
-Una operación puede producir grandes cantidades de contenido diseñado para influir en las respuestas futuras de sistemas que recuperan información de la web. Esto es parecido al SEO, pero orientado a modelos y sistemas de respuesta.
+El contenido puede intentar introducir instrucciones maliciosas en el contexto: LLM seeding / contaminación del conocimiento público. Una operación puede producir grandes cantidades de contenido diseñado para influir en las respuestas futuras de sistemas que recuperan información de la web. Esto es parecido al SEO, pero orientado a modelos y sistemas de respuesta.
+
 La defensa no consiste en asumir que todo contenido es falso. Consiste en aumentar la provenance, comparar fuentes independientes y evitar que una única fuente se convierta en autoridad implícita.
+
 Soberanía cognitiva
-La seguridad de IA no es solamente una cuestión técnica.
-Una persona también puede delegar progresivamente su juicio, memoria, escritura, búsqueda y evaluación en un sistema automático. Por eso este repositorio incluye una capa de autonomía humana:
+La seguridad de IA no es solamente una cuestión técnica: Una persona también puede delegar progresivamente su juicio, memoria, escritura, búsqueda y evaluación en un sistema automático. Por eso este repositorio incluye una capa de autonomía humana:
 ```text
 IA como prótesis       ✓
 IA como autoridad      ✗
