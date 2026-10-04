@@ -212,28 +212,32 @@ secure-ai/
 └── resources/
     └── sources.md
 ```
-Fuentes y lecturas recomendadas
-Seguridad técnica
-Simon Willison — The lethal trifecta for AI agents: private data, untrusted content, and external communication:
-https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
-Ivan Gawek — Secure MCPs for Secure Artifacts:
-https://github.com/ivangawek12/secure-mcps-for-secure-artifacts
-Seeding e influencia
-Nada Respetable — LLM seeding como arma de guerra:
-https://nadarespetable.com/llm-seeding-como-arma-de-guerra/
-Autonomía y uso humano de IA
-421.news — El futuro de la IA: Entre doomers y hyperos:
-https://www.421.news/es/ia-doomers-hyperos/
-421.news — Cómo proteger tu cerebro del algoritmo:
-https://www.421.news/es/como-proteger-cerebro-algoritmo-soberania-cognitiva-bioquimica/
-421.news — El rol de la autonomía humana en la era de los LLM:
-https://www.421.news/es/ia-soberania-cognitiva-low-tech-high-life/
-421.news — El caso Anthropic: ¿necesitamos una ética para relacionarnos con la IA?:
-https://www.421.news/es/filosofia-anthropic-ia-etica/
-Nada Respetable — Psicosis inducida por inteligencia artificial:
-https://nadarespetable.com/psicosis-inducida-por-inteligencia-artificial/
-Licencia
+<h4>Fuentes y lecturas recomendadas</h4>
+
+<small>
+
+### Seguridad técnica
+
+Simon Willison — [The lethal trifecta for AI agents](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)  
+Ivan Gawek — [Secure MCPs for Secure Artifacts](https://github.com/ivangawek12/secure-mcps-for-secure-artifacts)
+
+### Seeding e influencia
+
+Nada Respetable — [LLM seeding como arma de guerra](https://nadarespetable.com/llm-seeding-como-arma-de-guerra/)
+
+### Autonomía y uso humano de IA
+
+421.news — [El futuro de la IA: Entre doomers y hyperos](https://www.421.news/es/ia-doomers-hyperos/)  
+421.news — [Cómo proteger tu cerebro del algoritmo](https://www.421.news/es/como-proteger-cerebro-algoritmo-soberania-cognitiva-bioquimica/)  
+421.news — [El rol de la autonomía humana en la era de los LLM](https://www.421.news/es/ia-soberania-cognitiva-low-tech-high-life/)  
+421.news — [El caso Anthropic](https://www.421.news/es/filosofia-anthropic-ia-etica/)  
+Nada Respetable — [Psicosis inducida por inteligencia artificial](https://nadarespetable.com/psicosis-inducida-por-inteligencia-artificial/)
+
+### Licencia
+
 Este proyecto puede publicarse bajo MIT para el material propio, manteniendo las atribuciones y licencias correspondientes de cualquier contenido o código de terceros.
+
+</small>
 ---
 Idea central:
 > No intentes hacer que el modelo sea perfecto.
