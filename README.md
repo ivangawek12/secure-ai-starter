@@ -290,7 +290,7 @@ secure-ai/
 - Juli Clur — *Neurociencias e Ingeniería Social*:
   https://github.com/ivangawek12/secure-ai-starter/blob/main/Neurociencias%20e%20ingenieria%20social%20-%20Julieta%20Clur%2024.5.2024.docx
 
-### Neurociencias y Cyber
+### Leyes y Cyber
 
 - Leti Quinn — *El riesgo de la “autonomía de la voluntad” causado por la Inteligencia Artificial en un sistema jurídico ideado para el ser humano*:
   https://github.com/ivangawek12/secure-ai-starter/blob/main/UBA%20Cibercrimen%20Ad%20Hoc%20-%20Trabajo%20Practico%20de%20Posgrado.docx
