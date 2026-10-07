@@ -285,6 +285,16 @@ secure-ai/
 - Nada Respetable — *LLM seeding como arma de guerra*:
   https://nadarespetable.com/llm-seeding-como-arma-de-guerra/
 
+### Neurociencias y Cyber
+
+- Juli Clur — *Neurociencias e Ingeniería Social*:
+  https://github.com/ivangawek12/secure-ai-starter/blob/main/Neurociencias%20e%20ingenieria%20social%20-%20Julieta%20Clur%2024.5.2024.docx
+
+### Neurociencias y Cyber
+
+- Leti Quinn — *El riesgo de la “autonomía de la voluntad” causado por la Inteligencia Artificial en un sistema jurídico ideado para el ser humano*:
+  https://github.com/ivangawek12/secure-ai-starter/blob/main/UBA%20Cibercrimen%20Ad%20Hoc%20-%20Trabajo%20Practico%20de%20Posgrado.docx
+
 ### Autonomía y uso humano de IA
 
 - 421.news — *El futuro de la IA: Entre doomers y hyperos*:
